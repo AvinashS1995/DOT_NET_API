@@ -1,0 +1,6 @@
+@AIS_MyWebApi_HostAddress = http://localhost:5283
+
+GET {{AIS_MyWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

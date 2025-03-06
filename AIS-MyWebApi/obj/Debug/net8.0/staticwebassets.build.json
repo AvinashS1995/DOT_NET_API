@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dRXA4LPfbjmvuYzQ8yxU7yevRj2Cfs7dy6YYucrXj6Y=",
+  "Source": "AIS-MyWebApi",
+  "BasePath": "_content/AIS-MyWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
